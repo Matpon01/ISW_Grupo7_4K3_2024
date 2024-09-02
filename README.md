@@ -25,7 +25,7 @@ ISW_Grupo7_4K3_2024
 │   │   ├── TP1
 │   │   └── TPN
 │   └── Ejercicios Prácticos
-│       └── Guías
+│   └── Guías
 └── Complementario
     └── Notas de Clases
 ```
@@ -38,7 +38,7 @@ ISW_Grupo7_4K3_2024
 | Templates                         | `TMP_<Descripción Template>.pdf`              | ISW_Grupo7_4K3_2024/MaterialDeClase/Templates/                           |
 | Enunciado Trabajos Prácticos      | `TP<N>_Enunciado.pdf`                         | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/TP<N>/                   |
 | Entregable Trabajos Prácticos     | `TP<N>_Entregable.pdf`                        | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/TP<N>/                   |
-| Casos Prácticos                   | `Caso<N>_Resuelto.<ext>`                      | ISW_Grupo7_4K3_2024/Práctico/Casos Prácticos/                            |
+| Ejercicios Prácticos                   | `Caso<N>_Resuelto.<ext>`                      | ISW_Grupo7_4K3_2024/Práctico/Ejercicios Practicos Prácticos/                            |
 | Guías                             | `Guía_<Descripcion Guia>.pdf`                 | ISW_Grupo7_4K3_2024/Práctico/Guías/                                      |
 | Notas de Clase                    | `NotaClase_<Fecha>.<ext>`                     | ISW_Grupo7_4K3_2024/Complementario/Notas De Clase                        |
 
