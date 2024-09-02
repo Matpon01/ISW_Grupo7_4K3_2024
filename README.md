@@ -27,7 +27,9 @@ ISW_Grupo7_4K3_2024
 │   └── Ejercicios Prácticos
 │   └── Guías
 └── Complementario
-    └── Notas de Clases
+    ├── Notas de Clases
+    └── Cronograma De Clases
+
 ```
 ## Listado de Items de Configuración
 
@@ -41,7 +43,7 @@ ISW_Grupo7_4K3_2024
 | Ejercicios Prácticos                   | `Caso<N>_Resuelto.<ext>`                      | ISW_Grupo7_4K3_2024/Práctico/Ejercicios Practicos Prácticos/                            |
 | Guías                             | `Guía_<Descripcion Guia>.pdf`                 | ISW_Grupo7_4K3_2024/Práctico/Guías/                                      |
 | Notas de Clase                    | `NotaClase_<Fecha>.<ext>`                     | ISW_Grupo7_4K3_2024/Complementario/Notas De Clase                        |
-
+| Cronograma de Clase               | `CDC_4K3_2024.xlsx`                     | ISW_Grupo7_4K3_2024/Complementario/Cronograma de Clases|
 
 ## Glosario
 
@@ -57,6 +59,6 @@ ISW_Grupo7_4K3_2024
 | `<ext>`                | Extensión del archivo                |
 ## Criterio de Linea Base
 
-Se va a definir una nueva Línea Base después de cada Trabajo Práctico Evaluable que ya ha sido corregido por el profesor
-Nos basamos en este criterio debido a que consideramos los TP Evaluables como puntos de referencia para comparar el progreso a través de la materia
+Se va a definir una nueva Línea Base después de cada Parcial Evaluativo
+Nos basamos en este criterio debido a que consideramos los Parciales como puntos de referencia para comparar el progreso a través de la materia
 
