@@ -18,8 +18,8 @@
 ISW_Grupo7_4K3_2024
 ├── Material de clases
 │   ├── Presentaciones
-│   └── Bibliografía
-│       └── Templates
+│   ├── Bibliografía
+│   └── Templates
 ├── Práctico
 │   ├── Trabajos Prácticos
 │   │   ├── TP1
