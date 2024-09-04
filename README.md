@@ -24,7 +24,7 @@ ISW_Grupo7_4K3_2024
 │   ├── Trabajos Prácticos
 │   │   ├── TP1
 │   │   └── TPN
-│   └── Ejercicios Prácticos
+│   ├── Ejercicios Prácticos
 │   └── Guías
 └── Complementario
     └── Notas de Clases
@@ -34,11 +34,11 @@ ISW_Grupo7_4K3_2024
 
 | Nombre del Ítem de Configuración  | Regla de Nombrado                           | Ubicación Física                                                        |
 |-----------------------------------|---------------------------------------------|--------------------------------------------------------------------------|
-| Presentaciones de clases          | `PDC<N>_<NombrePresentación>.pdf`             | ISW_Grupo7_4K3_2024/MaterialDeClase/Presentaciones/                      |
-| Bibliografía                      | `Bib_<TemaBiblio>_<NombreBibliografía>.pdf` | ISW_Grupo7_4K3_2024/MaterialDeClase/Bibliografía/                     |
-| Templates                         | `TMP_<NombreTemplate>.<ext>`              | ISW_Grupo7_4K3_2024/MaterialDeClase/Templates/                           |
-| Enunciado Trabajos Prácticos      | `TP<N>_Enunciado.pdf`                         | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/TP<N>/                   |
-| Entregable Trabajos Prácticos     | `TP<N>_Entregable.pdf`                        | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/TP<N>/                   |
+| Presentaciones de clases          | `PDC<N>_<NombrePresentación>.pdf`             | ISW_Grupo7_4K3_2024/Material De Clase/Presentaciones/                      |
+| Bibliografía                      | `Bib_<TemaBiblio>_<NombreBibliografía>.pdf` | ISW_Grupo7_4K3_2024/Material De Clase/Bibliografía/                     |
+| Templates                         | `TMP_<NombreTemplate>.<ext>`              | ISW_Grupo7_4K3_2024/Material De Clase/Templates/                           |
+| Enunciado Trabajos Prácticos      | `TP<N>_Enunciado.pdf`                         | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/`TP<N>`/                   |
+| Entregable Trabajos Prácticos     | `TP<N>_Entregable.pdf`                        | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/`TP<N>`/                   |
 | Ejercicios Prácticos                   | `Ejercicio<N>_Resuelto.<ext>`                      | ISW_Grupo7_4K3_2024/Práctico/Ejercicios Prácticos/                            |
 | Guías                             | `Guía_<NombreGuia>.pdf`                 | ISW_Grupo7_4K3_2024/Práctico/Guías/                                      |
 | Notas de Clase                    | `NotaClase_<Fecha>.<ext>`                     | ISW_Grupo7_4K3_2024/Complementario/Notas De Clase/                        |
@@ -48,7 +48,7 @@ ISW_Grupo7_4K3_2024
 
 | Sigla                  | Definición                           |
 |------------------------|--------------------------------------|
-| `<N>`                  | Número consecutivo empezado de 1     |
+| `<N>`                  | Números consecutivos empezando desde 1     |
 | `<NombrePresentación>` | Título de la Presentación            |
 | `<TemaBiblio>`         | Tema de la Bibliografía              |
 | `<NombreBibliografía>` | Título de la Bibliografía       |
