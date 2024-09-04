@@ -27,8 +27,7 @@ ISW_Grupo7_4K3_2024
 │   └── Ejercicios Prácticos
 │   └── Guías
 └── Complementario
-    ├── Notas de Clases
-    └── Cronograma De Clases
+    └── Notas de Clases
 
 ```
 ## Listado de Items de Configuración
@@ -40,10 +39,10 @@ ISW_Grupo7_4K3_2024
 | Templates                         | `TMP_<Descripción Template>.pdf`              | ISW_Grupo7_4K3_2024/MaterialDeClase/Templates/                           |
 | Enunciado Trabajos Prácticos      | `TP<N>_Enunciado.pdf`                         | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/TP<N>/                   |
 | Entregable Trabajos Prácticos     | `TP<N>_Entregable.pdf`                        | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/TP<N>/                   |
-| Ejercicios Prácticos                   | `Caso<N>_Resuelto.<ext>`                      | ISW_Grupo7_4K3_2024/Práctico/Ejercicios Practicos Prácticos/                            |
+| Ejercicios Prácticos                   | `Ejercicio<N>_Resuelto.<ext>`                      | ISW_Grupo7_4K3_2024/Práctico/Ejercicios Prácticos/                            |
 | Guías                             | `Guía_<Descripcion Guia>.pdf`                 | ISW_Grupo7_4K3_2024/Práctico/Guías/                                      |
-| Notas de Clase                    | `NotaClase_<Fecha>.<ext>`                     | ISW_Grupo7_4K3_2024/Complementario/Notas De Clase                        |
-| Cronograma de Clase               | `CDC_4K3_2024.xlsx`                     | ISW_Grupo7_4K3_2024/Complementario/Cronograma de Clases|
+| Notas de Clase                    | `NotaClase_<Fecha>.<ext>`                     | ISW_Grupo7_4K3_2024/Complementario/Notas De Clase/                        |
+
 
 ## Glosario
 
