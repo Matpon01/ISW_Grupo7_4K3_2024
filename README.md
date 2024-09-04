@@ -35,12 +35,12 @@ ISW_Grupo7_4K3_2024
 | Nombre del Ítem de Configuración  | Regla de Nombrado                           | Ubicación Física                                                        |
 |-----------------------------------|---------------------------------------------|--------------------------------------------------------------------------|
 | Presentaciones de clases          | `PDC<N>_<NombrePresentación>.pdf`             | ISW_Grupo7_4K3_2024/MaterialDeClase/Presentaciones/                      |
-| Bibliografía                      | `Bib_<TemaBiblio>_<Descripción Bibliografía>.pdf` | ISW_Grupo7_4K3_2024/MaterialDeClase/Bibliografía/                     |
-| Templates                         | `TMP_<Descripción Template>.pdf`              | ISW_Grupo7_4K3_2024/MaterialDeClase/Templates/                           |
+| Bibliografía                      | `Bib_<TemaBiblio>_<NombreBibliografía>.pdf` | ISW_Grupo7_4K3_2024/MaterialDeClase/Bibliografía/                     |
+| Templates                         | `TMP_<NombreTemplate>.<ext>`              | ISW_Grupo7_4K3_2024/MaterialDeClase/Templates/                           |
 | Enunciado Trabajos Prácticos      | `TP<N>_Enunciado.pdf`                         | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/TP<N>/                   |
 | Entregable Trabajos Prácticos     | `TP<N>_Entregable.pdf`                        | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/TP<N>/                   |
 | Ejercicios Prácticos                   | `Ejercicio<N>_Resuelto.<ext>`                      | ISW_Grupo7_4K3_2024/Práctico/Ejercicios Prácticos/                            |
-| Guías                             | `Guía_<Descripcion Guia>.pdf`                 | ISW_Grupo7_4K3_2024/Práctico/Guías/                                      |
+| Guías                             | `Guía_<NombreGuia>.pdf`                 | ISW_Grupo7_4K3_2024/Práctico/Guías/                                      |
 | Notas de Clase                    | `NotaClase_<Fecha>.<ext>`                     | ISW_Grupo7_4K3_2024/Complementario/Notas De Clase/                        |
 
 
@@ -51,9 +51,9 @@ ISW_Grupo7_4K3_2024
 | `<N>`                  | Número consecutivo empezado de 1     |
 | `<NombrePresentación>` | Título de la Presentación            |
 | `<TemaBiblio>`         | Tema de la Bibliografía              |
-| `<DescripcionBibliografía>` | Título de la Bibliografía       |
-| `<DescripcionGuía>`    | Título de la Guía                    |
-| `<DescripciónTemplate>`| Título del Template                  |
+| `<NombreBibliografía>` | Título de la Bibliografía       |
+| `<NombreGuía>`    | Título de la Guía                    |
+| `<NombreTemplate>`| Título del Template                  |
 | `<Fecha>`              | Fecha actual                         |
 | `<ext>`                | Extensión del archivo                |
 ## Criterio de Linea Base
