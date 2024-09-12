@@ -26,22 +26,26 @@ ISW_Grupo7_4K3_2024
 │   │   └── TPN
 │   ├── Ejercicios Prácticos
 │   └── Guías
-└── Complementario
-    └── Notas de Clases
+├── Complementario
+|    └── Notas de Clases
+└── Presentaciones
 
 ```
 ## Listado de Items de Configuración
 
 | Nombre del Ítem de Configuración  | Regla de Nombrado                           | Ubicación Física                                                        |
 |-----------------------------------|---------------------------------------------|--------------------------------------------------------------------------|
-| Presentaciones de clases          | `PDC<N>_<NombrePresentación>.pdf`             | ISW_Grupo7_4K3_2024/Material De Clase/Presentaciones/                      |
-| Bibliografía                      | `Bib_<TemaBiblio>_<NombreBibliografía>.pdf` | ISW_Grupo7_4K3_2024/Material De Clase/Bibliografía/                     |
-| Templates                         | `TMP_<NombreTemplate>.<ext>`              | ISW_Grupo7_4K3_2024/Material De Clase/Templates/                           |
-| Enunciado Trabajos Prácticos      | `TP<N>_Enunciado.pdf`                         | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/`TP<N>`/                   |
-| Entregable Trabajos Prácticos     | `TP<N>_Entregable.pdf`                        | ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/`TP<N>`/                   |
-| Ejercicios Prácticos                   | `Ejercicio<N>_Resuelto.<ext>`                      | ISW_Grupo7_4K3_2024/Práctico/Ejercicios Prácticos/                            |
-| Guías                             | `Guía_<NombreGuia>.pdf`                 | ISW_Grupo7_4K3_2024/Práctico/Guías/                                      |
-| Notas de Clase                    | `NotaClase_<Fecha>.<ext>`                     | ISW_Grupo7_4K3_2024/Complementario/Notas De Clase/                        |
+| Modalidad Academica          | `ISW_MOD_2024.pdf`             | /ISW_Grupo7_4K3_2024/                      |
+| Cronograma De Clasess          | `ISW_CDC_4K3_2024.xlsx`             | /ISW_Grupo7_4K3_2024/                      |
+| Presentaciones de clases          | `ISW_PDC<N>_<NombrePresentación>.pdf`             | /ISW_Grupo7_4K3_2024/Material De Clase/Presentaciones/                      |
+| Bibliografía                      | `ISW_Bib_<TemaBiblio>_<NombreBibliografía>.pdf` | /ISW_Grupo7_4K3_2024/Material De Clase/Bibliografía/                     |
+| Templates                         | `ISW_TMP_<NombreTemplate>.<ext>`              | /ISW_Grupo7_4K3_2024/Material De Clase/Templates/                           |
+| Enunciado Trabajos Prácticos      | `ISW_TP<N>_Enunciado.pdf`                         | /ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/`TP<N>`/                   |
+| Entregable Trabajos Prácticos     | `ISW_TP<N>_Entregable.pdf`                        | /ISW_Grupo7_4K3_2024/Práctico/Trabajos Prácticos/`TP<N>`/                   |
+| Ejercicios Prácticos                   | `ISW_<NombreEjercicio>.<ext>`                      | /ISW_Grupo7_4K3_2024/Práctico/Ejercicios Prácticos/                            |
+| Guías                             | `ISW_Guía_<NombreGuia>.pdf`                 | /ISW_Grupo7_4K3_2024/Práctico/Guías/                                      |
+| Presentaciones de Trabajos de Investigacion                            | `ISW_TDI_Presentación_<NombrePresentación>.pptx`                 | /ISW_Grupo7_4K3_2024/Trabajos De Investigación/
+| Notas de Clase                    | `ISW_NotaClase_<Fecha>.<ext>`                     | /ISW_Grupo7_4K3_2024/Complementario/Notas De Clase/                        |
 
 
 ## Glosario
@@ -54,6 +58,8 @@ ISW_Grupo7_4K3_2024
 | `<NombreBibliografía>` | Título de la Bibliografía       |
 | `<NombreGuía>`    | Título de la Guía                    |
 | `<NombreTemplate>`| Título del Template                  |
+|`<NombreEjercicio>`| Nombre con el que se identifica el ejercicio|
+|`<NombrePresentacón>`| Nombre con el que se identifica la presentación teórica|
 | `<Fecha>`              | Fecha actual                         |
 | `<ext>`                | Extensión del archivo                |
 ## Criterio de Linea Base
