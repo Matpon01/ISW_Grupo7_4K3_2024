@@ -1,6 +1,9 @@
 Para correr el programa:
+
     1. npm install
+    
     2. npm run dev
+    
     3. Abrir localhost:3000
 
 Para probar las tarjetas:
