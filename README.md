@@ -24,7 +24,6 @@ ISW_Grupo7_4K3_2024
 │   ├── Trabajos Prácticos
 │   │   ├── TP1
 │   │   └── TPN
-│   ├── Ejercicios Prácticos
 │   └── Guías
 ├── Complementario
 |    └── Notas de Clases
@@ -40,11 +39,10 @@ ISW_Grupo7_4K3_2024
 | Presentaciones de clases          | `ISW_PDC<N>_<NombrePresentación>.pdf`             | \ISW_Grupo7_4K3_2024\Material De Clase\Presentaciones\                      |
 | Bibliografía                      | `ISW_Bib_<TemaBiblio>_<NombreBibliografía>.pdf` | \ISW_Grupo7_4K3_2024/Material De Clase\Bibliografía\                   |
 | Templates                         | `ISW_TMP_<NombreTemplate>.<ext>`              | \ISW_Grupo7_4K3_2024/Material De Clase\Templates\                         |
-| Enunciado Trabajos Prácticos      | `ISW_TP<N>_Enunciado.pdf`                         | \ISW_Grupo7_4K3_2024/Práctico\Trabajos Prácticos\`TP<N>`\                   |
-| Entregable Trabajos Prácticos     | `ISW_TP<N>_Entregable.pdf`                        | \ISW_Grupo7_4K3_2024\Práctico\Trabajos Prácticos\`TP<N>`\                   |
-| Ejercicios Prácticos                   | `ISW_<NombreEjercicio>.<ext>`                      | \ISW_Grupo7_4K3_2024\Práctico\Ejercicios Prácticos\                           |
+| Enunciado Trabajos Prácticos      | `ISW_TP<N>_Enunciado.pdf`                         | `\ISW_Grupo7_4K3_2024/Práctico\Trabajos Prácticos\TP<N>\`                   |
+| Entregable Trabajos Prácticos     | `ISW_TP<N>_Entregable.pdf`                        | `\ISW_Grupo7_4K3_2024\Práctico\Trabajos Prácticos\TP<N>\`                   |
 | Guías                             | `ISW_Guía_<NombreGuia>.pdf`                 | \ISW_Grupo7_4K3_2024\Práctico\Guías\                                      |
-| Presentaciones de Trabajos de Investigacion                            | `ISW_TDI_Presentación_<NombrePresentación>.pptx`                 | /ISW_Grupo7_4K3_2024/Trabajos De Investigación/
+| Presentaciones de Trabajos de Investigacion                            | `ISW_TDI_Presentación_<NombrePresentación>.pptx`                 | \ISW_Grupo7_4K3_2024\Trabajos De Investigación\
 | Notas de Clase                    | `ISW_NotaClase_<Fecha>.<ext>`                     | \ISW_Grupo7_4K3_2024\Complementario\Notas De Clase\                        |
 
 
@@ -58,7 +56,6 @@ ISW_Grupo7_4K3_2024
 | `<NombreBibliografía>` | Título de la Bibliografía       |
 | `<NombreGuía>`    | Título de la Guía                    |
 | `<NombreTemplate>`| Título del Template                  |
-|`<NombreEjercicio>`| Nombre con el que se identifica el ejercicio|
 |`<NombrePresentacón>`| Nombre con el que se identifica la presentación teórica|
 | `<Fecha>`              | Fecha actual                         |
 | `<ext>`                | Extensión del archivo                |
