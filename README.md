@@ -57,7 +57,7 @@ ISW_Grupo7_4K3_2024
 | `<NombreGuía>`    | Título de la Guía                    |
 | `<NombreTemplate>`| Título del Template                  |
 |`<NombrePresentacón>`| Nombre con el que se identifica la presentación teórica|
-| `<Fecha>`              | Fecha actual                         |
+| `<Fecha>`              | Fecha actual en formato Dia-Mes-Año                       |
 | `<ext>`                | Extensión del archivo                |
 ## Criterio de Linea Base
 
