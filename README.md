@@ -43,7 +43,7 @@ ISW_Grupo7_4K3_2024
 | Entregable Trabajos Prácticos     | `ISW_TP<N>_Entregable.pdf`                        | `\ISW_Grupo7_4K3_2024\Práctico\Trabajos Prácticos\TP<N>\`                   |
 | Guías                             | `ISW_Guía_<NombreGuia>.pdf`                 | \ISW_Grupo7_4K3_2024\Práctico\Guías\                                      |
 | Presentaciones de Trabajos de Investigacion                            | `ISW_TDI_Presentación_<NombrePresentación>.pptx`                 | \ISW_Grupo7_4K3_2024\Trabajos De Investigación\
-| Notas de Clase                    | `ISW_NotaClase_<Fecha>.<ext>`                     | \ISW_Grupo7_4K3_2024\Complementario\Notas De Clase\                        |
+| Notas de Clases                    | `ISW_NotaClase_<Fecha>.<ext>`                     | \ISW_Grupo7_4K3_2024\Complementario\Notas De Clase\                        |
 
 
 ## Glosario
@@ -61,6 +61,7 @@ ISW_Grupo7_4K3_2024
 | `<ext>`                | Extensión del archivo                |
 ## Criterio de Linea Base
 
-Se va a definir una nueva Línea Base después de cada Parcial Evaluativo
+Se va a definir una nueva Línea Base después de cada Parcial Evaluativo.
+
 Nos basamos en este criterio debido a que consideramos los Parciales como puntos de referencia para comparar el progreso a través de la materia
 
