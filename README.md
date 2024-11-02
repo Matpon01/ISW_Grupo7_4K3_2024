@@ -10,7 +10,6 @@
 | Porta, Valentín          | 89806                |
 | Del Boca, Facundo        | 91258                |
 | Donato, Nicolas          | 89863                |
-| Muñoz Faya, Sofia        | 89949                |
 
 
 ## Estructura del repositorio
