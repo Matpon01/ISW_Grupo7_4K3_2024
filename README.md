@@ -41,7 +41,7 @@ ISW_Grupo7_4K3_2024
 | Enunciado Trabajos Prácticos      | `ISW_TP<N>_Enunciado.pdf`                         | `\ISW_Grupo7_4K3_2024/Práctico\Trabajos Prácticos\TP<N>\`                   |
 | Entregable Trabajos Prácticos     | `ISW_TP<N>_Entregable.pdf`                        | `\ISW_Grupo7_4K3_2024\Práctico\Trabajos Prácticos\TP<N>\`                   |
 | Guías                             | `ISW_Guía_<NombreGuia>.pdf`                 | \ISW_Grupo7_4K3_2024\Práctico\Guías\                                      |
-| Presentaciones de Trabajos de Investigacion                            | `ISW_TDI_Presentación_<NombrePresentación>.pptx`                 | \ISW_Grupo7_4K3_2024\Trabajos De Investigación\
+| Presentaciones de Trabajos de Investigación                            | `ISW_TDI_Presentación_<NombrePresentación>.pptx`                 | \ISW_Grupo7_4K3_2024\Trabajos De Investigación\
 | Notas de Clases                    | `ISW_NotaClase_<Fecha>.<ext>`                     | \ISW_Grupo7_4K3_2024\Complementario\Notas De Clase\                        |
 
 
