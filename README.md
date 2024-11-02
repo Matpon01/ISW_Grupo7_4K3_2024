@@ -33,7 +33,7 @@ ISW_Grupo7_4K3_2024
 
 | Nombre del Ítem de Configuración  | Regla de Nombrado                           | Ubicación Física                                                        |
 |-----------------------------------|---------------------------------------------|--------------------------------------------------------------------------|
-| Modalidad Academica          | `ISW_MOD_2024.pdf`             | \ISW_Grupo7_4K3_2024\                      |
+| Modalidad Académica          | `ISW_MOD_2024.pdf`             | \ISW_Grupo7_4K3_2024\                      |
 | Cronograma De Clases          | `ISW_CDC_4K3_2024.xlsx`             | \ISW_Grupo7_4K3_2024\                      |
 | Presentaciones de clases          | `ISW_PDC<N>_<NombrePresentación>.pdf`             | \ISW_Grupo7_4K3_2024\Material De Clase\Presentaciones\                      |
 | Bibliografía                      | `ISW_Bib_<TemaBiblio>_<NombreBibliografía>.pdf` | \ISW_Grupo7_4K3_2024/Material De Clase\Bibliografía\                   |
