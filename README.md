@@ -33,16 +33,16 @@ ISW_Grupo7_4K3_2024
 
 | Nombre del Ítem de Configuración  | Regla de Nombrado                           | Ubicación Física                                                        |
 |-----------------------------------|---------------------------------------------|--------------------------------------------------------------------------|
-| Modalidad Académica          | `ISW_MOD_2024.pdf`             | \ISW_Grupo7_4K3_2024\                      |
-| Cronograma De Clases          | `ISW_CDC_4K3_2024.xlsx`             | \ISW_Grupo7_4K3_2024\                      |
-| Presentaciones de clases          | `ISW_PDC<N>_<NombrePresentación>.pdf`             | \ISW_Grupo7_4K3_2024\Material De Clase\Presentaciones\                      |
-| Bibliografía                      | `ISW_Bib_<TemaBiblio>_<NombreBibliografía>.pdf` | \ISW_Grupo7_4K3_2024\Material De Clase\Bibliografía\                   |
-| Templates                         | `ISW_TMP_<NombreTemplate>.<ext>`              | \ISW_Grupo7_4K3_2024\Material De Clase\Templates\                         |
-| Enunciado Trabajos Prácticos      | `ISW_TP<N>_Enunciado.pdf`                         | `\ISW_Grupo7_4K3_2024/Práctico\Trabajos Prácticos\TP<N>\`                   |
-| Entregable Trabajos Prácticos     | `ISW_TP<N>_Entregable.pdf`                        | `\ISW_Grupo7_4K3_2024\Práctico\Trabajos Prácticos\TP<N>\`                   |
-| Guías                             | `ISW_Guía_<NombreGuia>.pdf`                 | \ISW_Grupo7_4K3_2024\Práctico\Guías\                                      |
-| Presentaciones de Trabajos de Investigación                            | `ISW_TDI_Presentación_<NombrePresentación>.pdf`                 | \ISW_Grupo7_4K3_2024\Trabajos De Investigación\
-| Notas de Clases                    | `ISW_NotaClase_<Fecha>.<ext>`                     | \ISW_Grupo7_4K3_2024\Complementario\Notas De Clase\                        |
+| Modalidad Académica          | `ISW_MOD_2024.pdf`             | /                      |
+| Cronograma De Clases          | `ISW_CDC_4K3_2024.xlsx`             | /                      |
+| Presentaciones de clases          | `ISW_PDC<N>_<NombrePresentación>.pdf`             | /Material De Clase/Presentaciones/                      |
+| Bibliografía                      | `ISW_Bib_<TemaBiblio>_<NombreBibliografía>.pdf` | /Material De Clase/Bibliografía/                   |
+| Templates                         | `ISW_TMP_<NombreTemplate>.<ext>`              | /Material De Clase/Templates/                        |
+| Enunciado Trabajos Prácticos      | `ISW_TP<N>_Enunciado.pdf`                         | `/Práctico/Trabajos Prácticos/TP<N>/`                   |
+| Entregable Trabajos Prácticos     | `ISW_TP<N>_Entregable.pdf`                        | `/Práctico/Trabajos Prácticos/TP<N>/`                   |
+| Guías                             | `ISW_Guía_<NombreGuia>.pdf`                 | /Práctico/Guías/                                      |
+| Presentaciones de Trabajos de Investigación                            | `ISW_TDI_Presentación_<NombrePresentación>.pdf`                 |/Trabajos De Investigación/
+| Notas de Clases                    | `ISW_NotaClase_<Fecha>.<ext>`                     | /Complementario/Notas De Clase/                       |
 
 
 ## Glosario
