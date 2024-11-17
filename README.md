@@ -36,8 +36,8 @@ ISW_Grupo7_4K3_2024
 | Modalidad Académica          | `ISW_MOD_2024.pdf`             | \ISW_Grupo7_4K3_2024\                      |
 | Cronograma De Clases          | `ISW_CDC_4K3_2024.xlsx`             | \ISW_Grupo7_4K3_2024\                      |
 | Presentaciones de clases          | `ISW_PDC<N>_<NombrePresentación>.pdf`             | \ISW_Grupo7_4K3_2024\Material De Clase\Presentaciones\                      |
-| Bibliografía                      | `ISW_Bib_<TemaBiblio>_<NombreBibliografía>.pdf` | \ISW_Grupo7_4K3_2024/Material De Clase\Bibliografía\                   |
-| Templates                         | `ISW_TMP_<NombreTemplate>.<ext>`              | \ISW_Grupo7_4K3_2024/Material De Clase\Templates\                         |
+| Bibliografía                      | `ISW_Bib_<TemaBiblio>_<NombreBibliografía>.pdf` | \ISW_Grupo7_4K3_2024\Material De Clase\Bibliografía\                   |
+| Templates                         | `ISW_TMP_<NombreTemplate>.<ext>`              | \ISW_Grupo7_4K3_2024\Material De Clase\Templates\                         |
 | Enunciado Trabajos Prácticos      | `ISW_TP<N>_Enunciado.pdf`                         | `\ISW_Grupo7_4K3_2024/Práctico\Trabajos Prácticos\TP<N>\`                   |
 | Entregable Trabajos Prácticos     | `ISW_TP<N>_Entregable.pdf`                        | `\ISW_Grupo7_4K3_2024\Práctico\Trabajos Prácticos\TP<N>\`                   |
 | Guías                             | `ISW_Guía_<NombreGuia>.pdf`                 | \ISW_Grupo7_4K3_2024\Práctico\Guías\                                      |
